@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f0f4f8;
-  color: #333;
+  color: #323036;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #e1e8f0;
+  background: #90bcef;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -31,7 +31,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #357ABD;
+  background: #e796fc;
 }
 
 /* Animations */
